@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1500"
-   height="1500"
-   viewBox="0 0 396.875 396.87501"
+   width="992.08331"
+   height="1102.7928"
+   viewBox="0 0 262.48871 291.78061"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="129.25891"
-     inkscape:cy="704.59497"
+     inkscape:cx="-641.84228"
+     inkscape:cy="505.99142"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:snap-bbox="true"
@@ -42,7 +42,11 @@
      inkscape:window-height="1025"
      inkscape:window-x="40"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="125"
+     fit-margin-bottom="125"
+     fit-margin-left="125"
+     fit-margin-right="125" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -59,7 +63,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(0,79.375)">
+     sodipodi:insensitive="true"
+     transform="translate(-67.193143,26.82781)">
     <circle
        style="fill:#ebf2ff;fill-opacity:1;stroke:none;stroke-width:0.1505741"
        id="path4645"
@@ -69,27 +74,26 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4647"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3523e0;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3523e0;fill-opacity:1;stroke:none"
        transform="matrix(0.52723959,0,0,0.52723959,-137.07183,-205.50118)"><flowRegion
          id="flowRegion4649"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3523e0;fill-opacity:1;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3523e0;fill-opacity:1"><rect
            id="rect4651"
            width="367.14285"
            height="160"
            x="521.42859"
            y="475.71429"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3523e0;fill-opacity:1;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3523e0;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara4653">ARCADIA</flowPara><flowPara
          id="flowPara4655">HIGH</flowPara></flowRoot>  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,99.875017)"
-     sodipodi:insensitive="true">
+     transform="translate(-67.193143,47.327827)">
     <g
        id="g4639"
-       transform="translate(89.575279,-74.394784)">
+       transform="translate(89.575277,-74.394784)">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
