@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="992.08331"
-   height="1102.7928"
-   viewBox="0 0 262.48871 291.78061"
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58334"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="fowl.svg">
+   sodipodi:docname="fowl.svg"
+   inkscape:export-filename="/home/xing/documents/fowl/fowl.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -23,13 +26,13 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-641.84228"
-     inkscape:cy="505.99142"
+     inkscape:cx="-644.69943"
+     inkscape:cy="48.848559"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:snap-bbox="true"
@@ -63,19 +66,18 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     sodipodi:insensitive="true"
-     transform="translate(-67.193143,26.82781)">
+     transform="translate(-67.193143,-0.36946402)">
     <circle
        style="fill:#ebf2ff;fill-opacity:1;stroke:none;stroke-width:0.1505741"
        id="path4645"
-       cx="198.4375"
-       cy="119.0625"
+       cx="199.37485"
+       cy="132.66113"
        r="97.344048" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4647"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3523e0;fill-opacity:1;stroke:none"
-       transform="matrix(0.52723959,0,0,0.52723959,-137.07183,-205.50118)"><flowRegion
+       transform="matrix(0.52723959,0,0,0.52723959,-136.13448,-191.90255)"><flowRegion
          id="flowRegion4649"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3523e0;fill-opacity:1"><rect
            id="rect4651"
@@ -90,10 +92,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-67.193143,47.327827)">
+     transform="translate(-67.193143,20.130553)"
+     sodipodi:insensitive="true">
     <g
        id="g4639"
-       transform="translate(89.575277,-74.394784)">
+       transform="translate(90.622589,-60.796153)">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
