@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="1099.1921"
-     inkscape:cy="783.95184"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="-1961.2485"
+     inkscape:cy="2493.7109"
      inkscape:document-units="mm"
      inkscape:current-layer="g4639"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -249,7 +249,21 @@
                y="392.39896"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.12506104px;line-height:1.5;font-family:'Renner*';-inkscape-font-specification:'Renner*, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.12618759"
                id="tspan1001">3</tspan></text>
-        </g>
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot851"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66665649px;line-height:1;font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+             transform="matrix(0.11443096,0,0,0.11443096,-161.75391,46.468636)"><flowRegion
+               id="flowRegion853"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66665649px;line-height:1;font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000"><rect
+                 id="rect855"
+                 width="1504"
+                 height="984"
+                 x="2368"
+                 y="2560"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66665649px;line-height:1;font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000" /></flowRegion><flowPara
+               id="flowPara857">CLASS</flowPara><flowPara
+               id="flowPara859">OF</flowPara></flowRoot>        </g>
       </g>
     </g>
   </g>
